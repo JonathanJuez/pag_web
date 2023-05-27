@@ -1,0 +1,80 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos para el encabezado */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Estilos para la barra de navegación */
+nav {
+  background-color: #555;
+  color: #fff;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  color: #fff;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+/* Estilos para las secciones */
+/* Estilos para las secciones */
+section {
+  margin: 20px;
+}
+
+section#inicio {
+  background-color: #f2f2f2;
+}
+
+section#habilidades-tecnicas {
+  background-color: #e8f5ff;
+}
+
+section#habilidades-blandas {
+  background-color: #f5e8ff;
+}
+
+section#proyectos {
+  background-color: #f8f8f8;
+}
+
+section#contacto {
+  background-color: #fff7e8;
+}
+
+
+/* Estilos para el pie de página */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
